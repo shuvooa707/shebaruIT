@@ -1,0 +1,56 @@
+course,program,duration,nos,emgs,misc,ttf,intake,description,remarks,discount,doc_title,doc_link,id
+Foundation in Arts,Foundation,1 Year,2,2700,9350,12500,Jan/July/ Oct,,,,,,77
+Foundation in Commerce,Foundation,1 Year,2,2700,9350,12500,Jan/July/ Oct,,,,,,78
+Foundation in Science,Foundation,1 Year,2,2700,9350,15000,Jan/July/ Oct,,,,,,79
+Bachelor of Biomedical science (hons),Bachelor,4 Years,8,2700,10800,77200,April/August,,,,,,80
+Bachelor of Optometry (hons),Bachelor,4 Years,8,2700,10800,91200,April/August,,,,,,81
+Bachelor of Pharmacy,Bachelor,4 Years,8,2700,10800,121200,sept,,,,,,82
+Bachelor of Dental Surgery,Bachelor,5 Years,10,2700,11800,326800,sept,,,,,,83
+Bachelor of Medicine and Bachelor of Surgery,Bachelor,5 Years,10,2700,11800,328550,sept,,,,,,84
+Bachelor of Medicine and Bachelor of Surgery (USMLE),Bachelor,5 Years,10,2700,11800,328550,sept,Additional RM50000 for United States Medical Licensing Examination,,,,,85
+Bachelor of Accounting & Finance (Hons),Bachelor,3 Years,6,2700,9800,49500,Feb / Jun / Sept,,,,,,86
+Bachelor of Business management (Hons),Bachelor,3 Years,6,2700,9800,49500,Feb / Jun / Sept,"Marketing, Management, HR, Financial Management",,,,,87
+Bachelor of Accounting (Hons),Bachelor,3 Years,8,2700,9800,53000,Feb / Jun / Sept,,,,,,88
+Bachelor of Accounting & Finance (Hons) Dual award,Bachelor,3 Years,6,2700,9800,57000,Feb / Jun / Sept,,,,,,89
+Bachelor of Business management (Hons) Dual Award,Bachelor,3 Years,6,2700,9800,57000,Feb / Jun / Sept,"Marketing, Management, HR, Financial Management",,,,,90
+Bachelor of Accounting (Hons) Dual award,Bachelor,3 Years,8,2700,9800,60500,Feb / Jun / Sept,,,,,,91
+Bachelor of Engineering (Hons) in EEE,Bachelor,4 Years,8,2700,9800,69310,Feb / Jun / Sept,,,,,,92
+Bachelor of Engineering (Hons) in Mechanical,Bachelor,4 Years,8,2700,9800,69310,Feb / Jun / Sept,,,,,,93
+Bachelor of Engineering (Hons) in Civil,Bachelor,4 Years,8,2700,9800,72250,Feb / Jun / Sept,,,,,,94
+Bachelor of Engineering (Hons) in Chemical,Bachelor,4 Years,8,2700,9800,71050,Feb / Jun / Sept,,,,,,95
+Bachelor of Quantiti surveying (Hons),Bachelor,3 Years,8,2700,9800,48425,Feb / Jun / Sept,,,,,,96
+Bachelor of Engineering (Hons) in EEE Dual Award,Bachelor,4 Years,8,2700,9800,80710,Feb / Jun / Sept,,,,,,97
+Bachelor of Engineering (Hons) in Mechanical Dual Award,Bachelor,4 Years,8,2700,9800,80710,Feb / Jun / Sept,,,,,,98
+Bachelor of Engineering (Hons) in Civil Dual Award,Bachelor,4 Years,8,2700,9800,72250,Feb / Jun / Sept,,,,,,99
+Bachelor of Hospitality Management (Hons),Bachelor,3 Years,6,2700,9800,49500,May/ Sept,,,,,,100
+Intensive English Course,Certificate,6 Months,1,2700,8075,8400,Any Time,,,,,,101
+Bachelor of Arts (Hons) English & Public Relations,Bachelor,3 Years,6,2700,9800,47300,Feb / July / Sept,,,,,,102
+"Bachelor of Arts (Hons) English & Public Relations, Dual Award",Bachelor,3 Years,6,2700,9800,55700,Feb / July / Sept,,,,,,103
+Bachelor of Education (Hons),Bachelor,3 Years,6,2700,9800,52300,Feb / July / Sept,,,,,,104
+Bachelor of Education (Hons) Dual Award,Bachelor,3 Years,6,2700,9800,60700,Feb / July / Sept,,,,,,105
+Bachelor of Education (Hons) Primary TESL Education,Bachelor,4 Years,8,2700,9800,79200,Feb / July / Sept,,,,,,106
+Bachelor of Information Technology (Hons),Bachelor,3 Years,6,2700,9800,49500,May/ Sept,,,,,,107
+Bachelor of Information Technology (Hons) Dual Award,Bachelor,3 Years,6,2700,9800,57000,May/ Sept,,,,,,108
+Bachelor of Mass Communication (Hons),Bachelor,3 Years,6,2700,9800,52300,Jan/May/Sept,,,,,,109
+Bachelor of Mass Communication (Hons) Dual Award,Bachelor,3 Years,6,2700,9800,60700,Jan/May/Sept,,,,,,110
+Bachelor of Corporate Communication (Hons),Bachelor,3 Years,6,2700,9800,47300,Any Time,,,,,,111
+Bachelor of Arts (Hons) Visual Communication,Bachelor,3 Years,6,2700,9800,53500,Jan/Sept/Oct,,,,,,112
+Bachelor of Arts (Hons) Multimedia Design,Bachelor,3 Years,6,2700,9800,53500,Jan / Sept,,,,,,113
+Bachelor of Arts (Hons) Interior Architecture ,Bachelor,4 Years,8,2700,9800,56500,Jan/Apr/Jul/Sept,,,,,,114
+"MBA (Finance, Marketing, HR, Hospitality)",MBA,1 year,2,2700,9800,36000,Jan/May/Sept,,,,,,115
+Master in Professional Accounting,Master,1 Year,2,2700,9800,36000,Jan/May/Sept,,,,,,116
+Master of Financial Planning,Master,2 years,4,2700,9800,30700,Jan/May/Sept,,,,,,117
+"MBA (Entreprenuership, Global Business, General Management)",MBA,2 years,4,2700,9800,30700,Jan/May/Sept,,,,,,118
+"MBA (Global Business, General Management) Dual Award",MBA,2 years,4,2700,9800,38200,Jan/May/Sept,,,,,,119
+MSC in Management,Master,2 years,4,2700,9800,26750,Jan/May/Sept,,,,,,120
+MSC in Information Technology,Master,2 years,4,2700,9800,23700,Any Time,,,,,,121
+MSC in Vision Science,Master,2 years,4,2700,9800,31600,Any Time,,,,,,122
+MSC in Engineering,Master,2 years,4,2700,9800,31600,Any Time,,,,,,123
+MSC in Education,Master,2 years,4,2700,9800,23700,Any Time,,,,,,124
+MSC in Corporate Communication,Master,2 years,4,2700,9800,22200,Any Time,,,,,,125
+DBA,PhD,3 Years,6,2700,9800,48000,Any Time,,,,,,126
+Phd in Management,PhD,3 Years,6,2700,9800,36800,Any Time,,,,,,127
+Phd in Information Technology,PhD,3 Years,6,2700,9800,26700,Any Time,,,,,,128
+Phd in Education,PhD,3 Years,6,2700,9800,44600,Any Time,,,,,,129
+Phd in Engineering,PhD,3 Years,6,2700,9800,44600,Any Time,,,,,,130
+Phd in Environmental Science,PhD,3 Years,6,2700,9800,44600,Any Time,,,,,,131

@@ -1,0 +1,77 @@
+course,program,duration,nos,emgs,misc,ttf,intake,description,uid
+Foundation Non Engineering,Foundation,1 year,3,2100,6200,23200,Apr/May/Sept/Nov,,3
+Foundation Engineering,Foundation,1 year,3,2100,6200,23700,Apr/May/Sept/Nov,,3
+Diploma in Information & Communication Technology,Diploma,2.4 years,6,2100,6200,43200,Apr/May/Sept/Nov,,3
+Diploma in Information & Communication Technology (Software Engineering),Diploma,2.4 years,6,2100,6200,43200,Apr/May/Sept/Nov,,3
+Diploma in Business with Information Technology,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Business Administration,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Accounting,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Finance,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in International Studies,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Design & Media,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Journalism,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Diploma in Electrical & Electronic Engineering,Diploma,2.4 years,6,2100,6200,40500,Apr/May/Sept/Nov,,3
+Bachelor in Animation,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Visual Effect and Concept Design,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Digital Film & 3D Animation,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in CGI & Digital Effects,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Product Design,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Transport Design,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Advertizing & Brand Management,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Forensic Computing,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Cyber Security,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Business Information Technology,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Business Computing,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Business Computing (E-Commerce),Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in International Relations,Bachelor,3 year,6,2100,6200,77900,Apr/May/Sept/Nov,,3
+Bachelor in Information Technology,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,"Specialization in: Information System Security, Database Administration, Cloud Computing, Network Computing, Mobile Technology, Business Information System",3
+Bachelor in Software Engineering,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Computer Science,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Intelligent Systems,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Internet Technology,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Technopreneurship,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Multimedia Technology,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Computer Games Development,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Computer Games Development (Game Concept Art),Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Business Management,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Business Management (E-Business),Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in International Business Management,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Marketing Management,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Media Marketing,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Media Marketing (Social Media),Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Media Informatics,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Human Resource Management,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Accounting And Finance,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,"Specialization in: Forensic Accounting, Forex And Investments, Texation, Internal Audit",3
+Bachelor in Banking and Finance,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,"Financial Planning, Investment and Risk Management",3
+Bachelor in Islamic Banking and Finance,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Actuarial Studies,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Tourism Management,Bachelor,3 year,6,2100,6200,79300,Apr/May/Sept/Nov,,3
+Bachelor in Electrical & Electronic Engineering (Hons),Bachelor,4 year,8,2100,6700,99200,Apr/May/Sept/Nov,,3
+Bachelor in Electronic engineering with Information Technology,Bachelor,4 year,8,2100,6700,99200,Apr/May/Sept/Nov,,3
+Bachelor in Telecommunication Engineering,Bachelor,4 year,8,2100,6700,99200,Apr/May/Sept/Nov,,3
+Bachelor in Mechatronic Engineering,Bachelor,4 year,8,2100,6700,99200,Apr/May/Sept/Nov,,3
+Bachelor in Petroleum Engineering,Bachelor,4 year,8,2100,6700,99200,Apr/May/Sept/Nov,,3
+Certificate in Administrative Skill,Certificate,1.4 years,3,2100,6200,15000,Apr/May/Sept/Nov,,3
+Certificate in Information & Communication Technology,Certificate,1.4 years,3,2100,6200,15000,Apr/May/Sept/Nov,,3
+MSc in Information Technology Management,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc in Technology Management,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc in Software Engineering,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc in Mobile Computer System,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc In Computer Science,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master in Business Administration (MBA),Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MBA (Euro Asia Business),Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc in International Business Communication,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+MSc in Global Marketing Management,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master of Finance,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master of Accounting,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master of Accounting and forensic Analysis,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master of Real Estate Finance and Investment,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master in Islamic Finance and Banking,Master,1.5 years,3,2100,5700,36800,Jan/Apr/ August,,3
+Master of Philosophy (M.Phil) in Engineering,Master,1.5 years,3,2100,5700,27800,Jan/Apr/ August,,3
+MSc in Data Science and Business Analytics,Master,1.5 years,3,2100,5700,42400,Jan/Apr/ August,,3
+PhD in Computing,Phd,3 year,6,2100,5700,45000,Anytime,,3
+PhD in Management,Phd,3 year,6,2100,5700,45000,Anytime,,3
+PhD in Engineering,Phd,3 year,6,2100,5700,45000,Anytime,,3
+PhD in Finance,Phd,3 year,6,2100,5700,45000,Anytime,,3
+PhD in Technology,Phd,3 year,6,2100,5700,45000,Anytime,,3
+English Language program,Certificate,1 year,3,2100,6200,13860,Anytime,,3

@@ -1,0 +1,13 @@
+body {
+    background-color: #274756;
+}
+.panel {
+  background-color: rgba(255,255,255,.15);
+}
+.form-control {
+	background-color:#47626f;
+	color: #fff;
+}
+label {
+	color:#FFF;
+}

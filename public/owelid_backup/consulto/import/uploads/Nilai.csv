@@ -1,0 +1,52 @@
+course,program,duration,nos,emgs,misc,ttf,intake,description,remarks,discount,uid
+Foundation in Business,Foundation,1 year,3,2588,5250,15000,January to October,,,50%,28
+Foundation in Science,Foundation,1 year,3,2588,5250,15000,January to October,,,50%,28
+Diploma in Accounting,Diploma,2.4 years,6,2588,5250,28800,January to October,,,50%,28
+Diploma in Business Administration,Diploma,2.4 years,6,2588,5250,28800,January to October,,,50%,28
+Diploma in Culinary Arts,Diploma,2.4 years,6,2588,3720,37470,January to October,,,50%,28
+Diploma in Hotel Management,Diploma,2.4 years,6,2588,2480,32630,January to October,,,50%,28
+Diploma in Tourisum Management,Diploma,2.4 years,6,2588,1500,30750,January to October,,,50%,28
+Diploma in Business Information Technology,Diploma,2.4 years,6,2588,5250,28800,January to October,,,50%,28
+Diploma in Computer Science,Diploma,2.4 years,6,2588,5250,28800,January to October,,,50%,28
+Diploma in Biotechnology ,Diploma,2.4 years,6,2588,3400,34000,January to October,,,50%,28
+Diploma in Agricultural Management,Diploma,2.4 years,6,2588,5250,30150,January to October,,,50%,28
+Diploma in Medical Laboratory Technology,Diploma,2.4 years,6,2588,5635,44785,January to October,,,50%,28
+Diploma in Electrical & Electronic Engineering,Diploma,2.4 years,6,2588,5250,31500,January to October,,,50%,28
+Diploma in Nursing ,Bachelor,2.4 years,6,2588,5760,44610,January to October,,,50%,28
+Diploma in Aircraft Maintenance Engineering,Bachelor,2.4 years,6,2588,10400,45740,January to October,,,50%,28
+Diploma in Machanical Engineering,Bachelor,2.4 years,6,2588,5250,31500,January to October,,,50%,28
+Diploma in Mechatronic Engineering,Bachelor,2.4 years,6,2588,5250,31500,January to October,,,50%,28
+Diploma in Automotive Engineering,Bachelor,2.4 years,6,2588,5250,31500,January to October,,,50%,28
+Advanced Diploma in Aircraft Engineering Technology,Bachelor,1 year,6,2588,5250,27880,January to October,,,50%,28
+Advanced Diploma in Mechanical  Engineering ,Bachelor,1 year,6,2588,5250,27200,January to October,,,50%,28
+Advanced Diploma in Electrical Engineering,Bachelor,1 year,6,2588,5250,27200,January to October,,,50%,28
+B.A(Hons)in Accounting and Finance,Bachelor,3 year,6,2588,5750,56700,January to October,,,50%,28
+B.B.A.(Hons),Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+B.B.A.(Hons) Finance,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+B.B.A.(Hons)Human Resource Management,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+B.B.A.(Hons)Internatoinal Business,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+B.B.A.(Hons)Management,Bachelor,3 year,6,2588,5750,54000,January to October,"Specialization in: Information System Security, Database Administration, Cloud Computing, Network Computing, Mobile Technology, Business Information System",,50%,28
+B.B.A.(Hons)Marketing,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+B.A.(Hons) in Business and Hospitality Management,Bachelor,3 year,6,2588,5750,56400,January to October,,,50%,28
+B.A.(Hons) in Food Studies Management,Bachelor,3 year,6,2588,5750,56400,January to October,,,50%,28
+B.Sc (Hons) in Event Management,Bachelor,3 year,6,2588,5750,56400,January to October,,,50%,28
+Bachelor of Computer Science,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of Computer Science(Hons) Software Engineering ,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of Computer Sc.(Hons) Computer Graphics and Interactive Media,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of Computer Sc.(Hons) Computer and communication System ,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of Information Technology (Hons),Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of IT (Hons) Internet Engineering and Clouds Computing,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of IT(Hons) Information System,Bachelor,3 year,6,2588,5750,54000,January to October,,,50%,28
+Bachelor of Science (Hons)Biotechnology,Bachelor,3 year,6,2588,2930,56930,January to October,,,50%,28
+Bachelor of Science (Hons) in Nursing,Bachelor,4 year,6,2588,7000,72280,January to October,,,50%,28
+Bachelor of Electrical and Electronics Engineering (Hons),Bachelor,4 year,6,2588,5750,65880,January to October,,,50%,28
+Bachelor of Mechanical Engineering (Hons),Bachelor,4 year,6,2588,5750,69120,January to October,,,50%,28
+American Degree Transfer Program ,Bachelor,2 year,6,2588,5750,26500,January to October,,,50%,28
+Intensive English Programme (3 levels),Bachelor,2 ysear,6,2588,200,9600,January to October,"Specialization in: Forensic Accounting, Forex And Investments, Texation, Internal Audit",,50%,28
+MBA(Marketing),Masters,1 or 2 ysear,6,2588,5750,25200,January to October,"Financial Planning, Investment and Risk Management",,50%,28
+MBA(Management),Masters,1 or 2 ysear,6,2588,5750,25200,January to October,,,50%,28
+MBA(Banking and Finance),Masters,1 or 2 ysear,6,2588,5750,25200,January to October,,,50%,28
+MBA(Human Resource Management),Masters,1 or 2 ysear,6,2588,5750,25200,January to October,,,50%,28
+Masters of Engineering Science (By research),Masters,2-3 years,8,2588,5750,16000,January to October,,,50%,28
+Masters of Applied Science(By research),Masters,2-3 years,8,2588,5750,25000,January to October,,,50%,28
+PhD in Business Administration,PhD,3-5 years,8,2588,5750,30000,January to October,,,50%,28
